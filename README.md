@@ -50,5 +50,6 @@ $$\text{Load Classification} = \text{IF}\left(\text{Zone1\_Power} > \text{AVERAG
 * **Education:** BCA Graduate (2026)
 * **Core Competencies:** Advanced Spreadsheet Modeling, Structural Data Cleaning, KPI Logic Design, Pivot Dashboarding
 * **Availability:** Immediate Joiner
+* **DYNAMIC Dashboard:**  https://docs.google.com/spreadsheets/d/18wMIgYHRoOyfN8djaKqQK7fX65tXT6pedN_VTsIE6tI/edit?usp=sharing
 
 📬 [Connect with me on LinkedIn](https://www.linkedin.com/in/manimegalai-s-319734381) | 📁 [View My Full Portfolio](Manimegalai-Anlytics)
